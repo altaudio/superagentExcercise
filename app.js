@@ -1,0 +1,1 @@
+request.get('https://api.spotify.com/v1/search?q=kate%20bush&type=artist').end(function(err,res){});
